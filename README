@@ -1,0 +1,7 @@
+echo "# Data-Analysis-with-Python-DA0101EN" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nayidob/Data-Analysis-with-Python-DA0101EN.git
+git push -u origin master
+                
